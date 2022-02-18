@@ -1,0 +1,2 @@
+[2022-02-18 01:35:14] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-02-18 01:35:14] [IMessager.java] [1] [INFO] RESULT #1: TEST [carina-small-test - checkTopMenuNewsPromoTest] FAIL [screenshots=file:///Users/apetrov/Documents/carina-small-test/./reports/1645180494378/68aa4512-4b9e-4928-b390-aa6bdc0a56d0/report.html | log=file:///Users/apetrov/Documents/carina-small-test/./reports/1645180494378/68aa4512-4b9e-4928-b390-aa6bdc0a56d0/test.log]
